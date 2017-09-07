@@ -1,8 +1,10 @@
 <html>
 <head>
-<title>hello</title>
+<title>hello world</title>
 </head>
 <body>
-<h3> this is the paage</h3>
+<h3> this is the page</h3>
+<h3>this is 2nd page</h3>
+<h2>this is 3rd page</h2>
 </body>
 </html>
